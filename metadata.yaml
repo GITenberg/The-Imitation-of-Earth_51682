@@ -1,16 +1,21 @@
 _repo: The-Imitation-of-Earth_51682
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Carter
     gutenberg_agent_id: '49085'
     url: http://www.gutenberg.org/2009/agents/49085
+covers:
+- cover_type: archival
+  image_path: 51682-h/images/cover.jpg
 creator:
   author:
     agent_name: Stamers, James
     gutenberg_agent_id: '46428'
     url: http://www.gutenberg.org/2009/agents/46428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51682#The-Imitation-of-Earth
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-07'
 gutenberg_type: Text
